@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 
 ## Metadata
-- Author: [[Andyʼs working notes
+- Author: [[Andyʼs working notes]]
 - Full Title: Evergreen Notes Should Be Atomic
 - Category: #articles
 - Summary: Evergreen notes should be atomic, meaning they should focus on one specific topic or idea while capturing the entirety of that topic. This approach makes it easier to form connections across different topics and contexts. If notes are too broad, it becomes difficult to notice new ideas related to specific notions, and the links to those notes can become unclear. On the other hand, if notes are too fragmented, the link network can become disjointed, making it harder to see certain connections. The principle of atomicity in evergreen notes is similar to the software engineering principle of separation of concerns, where modules should be focused on one thing for better reusability. By creating atomic notes, connections can be fostered and the amount of connections in the network of notes can multiply.
