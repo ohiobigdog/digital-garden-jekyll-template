@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 up:: [[Meta PKM]]
 tags:: #on/readme 
 
