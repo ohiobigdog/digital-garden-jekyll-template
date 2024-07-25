@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 # Home 🌎
 This is my launchpad and homebase!!
 
