@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 up: [[Home]]    
 tags: #map/view
 
