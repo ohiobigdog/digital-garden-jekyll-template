@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # How to Take Smart Notes. One Simple Technique to Boost Writing,  Learning and Thinking
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/197750363/LceNJ7OtN8f-A_5rIoHn6Wtuq9ngrBrYKj0u8NebvvU-cove_lLsbpLH.jpg)
