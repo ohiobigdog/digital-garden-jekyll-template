@@ -4,7 +4,7 @@ dg-publish: true
 up:: [[Home]]
 tags:: #map/view 
 
-# The Inbox
+# The Inbox 📬
 This isn't a normal inbox. It's a cooling pad 🧊.
 
 Thoughts come in hot 🌶. But after a few days, they cool down ❄️.
