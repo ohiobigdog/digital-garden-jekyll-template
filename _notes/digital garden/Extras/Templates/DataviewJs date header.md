@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ```dataviewjs
 /*
     previous/next note by date for Daily Notes
@@ -31,9 +28,3 @@ nav.push(next ? '[[' + next[0] + ']]' : none);
 //dv.paragraph(nav.join(" · "));
 dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 ```
-
-up: [[Home]]
-#log/journal 
-
-
-Today was a pretty bland day. Work and home. Nothing exciting happened. I do have to pat myself on the back though. I waxed the stage and I think it looks pretty damn good!!! Off to bed shortly to do it all again tomorrow. 
