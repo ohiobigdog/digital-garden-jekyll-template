@@ -11,7 +11,7 @@ cssclasses:
 
 
 
-
+*Today is `="[[" + dateformat(date(today), "yyyy-MM-dd") + "|"+ dateformat(date(today), "cccc dd") +"]]"` `="[[" + dateformat(date(today), "yyyy/yyyy-MM") + "|"+ dateformat(date(today), "MMMM") +"]]"`, in `="[[" + dateformat(date(today), "yyyy") + "-W" + dateformat(date(today), "W") + "|Week "+ dateformat(date(today), "W") +"]]"`*
 
 
 
