@@ -7,7 +7,7 @@ status:
 finished: 
 rating (/10): 
 cover: 
-up: "[[Books]]"
+up: "[[Sources MOC]]"
 ---
 
 📖 *(paste at front of filename!)*
