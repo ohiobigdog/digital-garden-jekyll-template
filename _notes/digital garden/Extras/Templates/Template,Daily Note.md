@@ -1,3 +1,6 @@
+---
+dg-publish:
+---
 ```dataviewjs
 /*
     previous/next note by date for Daily Notes
