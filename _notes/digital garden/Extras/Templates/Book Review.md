@@ -1,13 +1,13 @@
 ---
-author:
-genre:
-published:
-format:
-status:
-finished:
-rating (/10):
-cover:
-up: "[[▢ Books]]"
+author: 
+genre: 
+published: 
+format: 
+status: 
+finished: 
+rating (/10): 
+cover: 
+up: "[[Books]]"
 ---
 
 📖 *(paste at front of filename!)*
