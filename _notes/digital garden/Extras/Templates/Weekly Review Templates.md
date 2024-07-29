@@ -4,7 +4,7 @@ publish: false
 Weeks: [[<% tp.date.now("YYYY-[W]ww","P-1W") %>]] <== [[<% tp.date.now("YYYY-[W]ww","PW") %>]] ==> [[<% tp.date.now("YYYY-[W]ww","P+1W") %>]]
 <% await tp.file.move("Calendar/Reviews/Weekly/" + tp.file.title) %>
 Days:  
-[[<% tp.date.now("MM-DD-YYYY", -1) %>]]
+[[<% tp.date.now("YYYY-MM-DD", -1) %>]]
 [[<% tp.date.now("MM-DD-YYYY", -2) %>]]
 [[<% tp.date.now("MM-DD-YYYY", -3) %>]]
 [[<% tp.date.now("MM-DD-YYYY", -4) %>]]
